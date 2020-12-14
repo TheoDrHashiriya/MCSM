@@ -14,9 +14,9 @@ Mindustry Classic Soundtrack Mod by TheoDr
 - Lowered music volume to 60% is recommended.
 
   Credits to A Drop A Day, the music artist.
-  http://twitter.com/adrop_aday
-  http://www.facebook.com/adropaday2015
-  http://soundcloud.com/adrop_aday
+  http://twitter.com/adrop_aday,
+  http://www.facebook.com/adropaday2015,
+  http://soundcloud.com/adrop_aday,
   https://open.spotify.com/artist/2EgIPREUR4sNtyBxTd4AMG
 
 Tracklist
