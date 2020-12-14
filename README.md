@@ -24,7 +24,8 @@ Tracklist
 - 4 - While(true)
 - 5 - The Shortest Path
 - 6 - As Far As It Gets
-  Bonus Tracks
+
+Bonus Tracks
 - 7 - 80s All Over Again
 - 8 - Keep On Dreaming
 - 9 - The Cougar
