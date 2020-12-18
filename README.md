@@ -7,8 +7,9 @@ Anyone who knows how to reduce pauses between songs in-game, let me know.
 Mindustry Classic music isn't designed for long pauses.
 
 Mindustry Classic Soundtrack Mod by TheoDr
-- It makes a backup of the game's desktop.jar, 
-  and replaces the game music to music from the Classic version + 3 other tracks from the same artist, A Drop A Day.
+- [Windows] It makes a backup of the game's desktop.jar, 
+  and replaces the game music with music from the Classic version + 3 other tracks from the same artist, A Drop A Day.
+- [Android] It's the Mindustry APK, but music is replaced with music from the Classic version + 3 other tracks from the same artist, A Drop A Day
 - Lowered music volume to 60% is recommended.
 
 Credits to A Drop A Day, the music artist.
@@ -52,7 +53,7 @@ Prerequisites
 - Export save from unmodified app.
 
 Installation
-1. Install .APK.
+1. Install APK.
 2. Import save.
 
 Uninstallation
