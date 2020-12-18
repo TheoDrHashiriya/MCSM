@@ -1,5 +1,5 @@
 # Mindustry Classic Soundtrack Mod
-A mod that replaces the Mindustry in-game music to its Classic version.
+A mod that replaces the Mindustry in-game music to its Classic version for Windows and Android.
 
 [NOTE]
 I'm a total noob at Java and Mindustry modding.
@@ -30,6 +30,8 @@ Bonus Tracks
 - 8 - Keep On Dreaming
 - 9 - The Cougar
 
+## Windows
+
 Prerequisites
 - Download and install 7-zip. (https://www.7-zip.org/download.html)
 - Extract/Copy the contents of the archive to the main game folder. (E.g. C:\Games\Mindustry\)
@@ -43,3 +45,15 @@ Installation
 
 Uninstallation
 1. Run mcsm_uninstall.bat.
+
+## Android
+
+Prerequisites
+- Export save from unmodified app.
+
+Installation
+1. Install .APK.
+2. Import save.
+
+Uninstallation
+1. Uninstall app.
