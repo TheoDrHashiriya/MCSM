@@ -1,8 +1,9 @@
-# Mindustry Classic Soundtrack Mod
-A mod that replaces the Mindustry in-game music to its Classic version for Windows and Android.
+# Mindustry Classic Soundtrack Mod (Obsolete)
+A mod that replaces the Mindustry in-game music to its Classic version + Bonus music for Windows and Android.
 
 [NOTE]
-I'm a total noob at Java and Mindustry modding.
+- This mod is now obsolete. Check out DaGamerFiles' [newer version](https://github.com/DaGamerFiles/classic-music).
+- I'm a total noob at Java and Mindustry modding.
 Anyone who knows how to reduce pauses between songs in-game, let me know.
 Mindustry Classic music isn't designed for long pauses.
 
@@ -34,7 +35,7 @@ Bonus Tracks
 ## Windows
 
 Prerequisites
-- Download and install 7-zip. (https://www.7-zip.org/download.html)
+- Download and install [7-zip](https://www.7-zip.org/download.html).
 - Extract/Copy the contents of the archive to the main game folder. (E.g. C:\Games\Mindustry\)
 
 Installation
